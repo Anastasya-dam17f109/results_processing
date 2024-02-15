@@ -3,3 +3,7 @@
  - stat_full
  - stat_n_full
  - stat_cut
+
+Обработка результатов по нскд:
+ - stat_file_processing
+   
