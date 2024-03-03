@@ -7,3 +7,5 @@
 Обработка результатов по нскд:
  - stat_file_processing
    
+Обработка grid_search (factors)
+ - grid_search_retreive
